@@ -1,0 +1,10 @@
+local/
+runs/
+outputs/
+.canvas-video-runs/
+.env
+.env.*
+*.mp4
+*.mp3
+*.wav
+*.zip

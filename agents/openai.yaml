@@ -1,0 +1,4 @@
+interface:
+  display_name: "无限画布"
+  short_description: "默认用Seedance 2.5特价版制作人物边走边说视频，核对口型、分镜与成片"
+  default_prompt: "使用 $infinite-canvas-video，按我的素材和文案，用Seedance 2.5特价版制作人物边走边说、嘴部自然运动的多场景视频（无需逐字对口型），先验证样片再按授权扩展。"
